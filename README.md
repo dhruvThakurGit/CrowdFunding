@@ -1,4 +1,4 @@
-In this dApp you can publish campaigns, fund other's campaigns, see just your own campaigns, track progress all in a modern React website
+In this dApp you can publish campaigns, fund other's campaigns through crypto , see just your own campaigns, track progress all in a modern React website
 <img width="529" height="422" alt="image" src="https://github.com/user-attachments/assets/6beeda67-f42f-421c-859f-dc94040125a4" />
 
 
